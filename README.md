@@ -1,5 +1,6 @@
 # svelte quiz stacks selector
 
+# Contents
 1. <code>npx degit sveltejs/template my-svelte-project</code> for setup
 2. Svelte Basics (Layout and Structure)
 3. User Input and Data Binding
@@ -8,8 +9,6 @@
 6. Inline Event Handlers
 7. Conditionals in Svelte
 
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -54,6 +53,7 @@ npm run build
 
 You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
 
+This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
 ## Single-page app mode
 
